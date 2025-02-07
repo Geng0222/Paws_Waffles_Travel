@@ -1,0 +1,329 @@
+{
+   "destination": "U07ebcdc4d3f7f72fb4c968138e95bf9b",
+   "events": []
+}
+{
+   "destination": "U07ebcdc4d3f7f72fb4c968138e95bf9b",
+   "events": [
+      {
+         "type": "message",
+         "message": {
+            "type": "text",
+            "id": "546933194281714001",
+            "quoteToken": "rvIhFkz_SiDO3yWqg8uUf-mh9FJcv4FGzhjMzClYwuVi4nhAIg26qlN_YQUF1f3suLdU3AzboPLSrAjHj7G3tbzXpSACwsNZgC-JxoTQwECjhy4SWtqJSZ3A8HHy4o3bDluJojfPdPkiv21ojtHEpA",
+            "text": "嗨"
+         },
+         "webhookEventId": "01JKD4EHKBYWC6J7QG7Q72T23E",
+         "deliveryContext": {
+            "isRedelivery": false
+         },
+         "timestamp": 1738828891619,
+         "source": {
+            "type": "user",
+            "userId": "U25e9025d9efa7e2b2ccdb429e0462ebd"
+         },
+         "replyToken": "b429c854c134444f811a6ecfca6d7ca3",
+         "mode": "active"
+      }
+   ]
+}
+{
+   "destination": "U07ebcdc4d3f7f72fb4c968138e95bf9b",
+   "events": [
+      {
+         "type": "message",
+         "message": {
+            "type": "text",
+            "id": "546933216309674311",
+            "quoteToken": "KptlpsYAx-xkE_dWmw0SH9VzGhG7vltphkRiZInufRBCm8KI-ttZ8Rv7r9UAUjEfyR5bdO1l0Hrt_cC3ACxAlX0Z0WqBaQJqRJzduI8EtuL2C4F5-Fnfbzhh8tW7tgpF9c25Cj6DUAvZXQIcQ06hWQ",
+            "text": "有什麼好玩的"
+         },
+         "webhookEventId": "01JKD4EYQN94EZR59RGXQCYGYJ",
+         "deliveryContext": {
+            "isRedelivery": false
+         },
+         "timestamp": 1738828904948,
+         "source": {
+            "type": "user",
+            "userId": "U25e9025d9efa7e2b2ccdb429e0462ebd"
+         },
+         "replyToken": "35e3a00adab24f449f00771c824cb0be",
+         "mode": "active"
+      }
+   ]
+}
+{
+   "destination": "U07ebcdc4d3f7f72fb4c968138e95bf9b",
+   "events": [
+      {
+         "type": "message",
+         "message": {
+            "type": "text",
+            "id": "546933499861926369",
+            "quoteToken": "1YC7x2G3gxTIGd0rjfh2rRJ2-q_A9KZycSWusK7Zv1Vt3MKorpHGrH-elNLPEjtOqrUd8uTeqcSRR5ar7mctKNlcrKrKaH92kjwmT-MxK-DW9vb_RDx4vEJFyNx0GVXUH_2_b8_PQpWw9Y7NJaFhlQ",
+            "text": "嗨"
+         },
+         "webhookEventId": "01JKD4M3FNFQCEFPYF9M34K1MM",
+         "deliveryContext": {
+            "isRedelivery": false
+         },
+         "timestamp": 1738829073761,
+         "source": {
+            "type": "user",
+            "userId": "U25e9025d9efa7e2b2ccdb429e0462ebd"
+         },
+         "replyToken": "3c359a4c5fc045778f24cadb35c32587",
+         "mode": "active"
+      }
+   ]
+}
+{
+   "destination": "U07ebcdc4d3f7f72fb4c968138e95bf9b",
+   "events": [
+      {
+         "type": "message",
+         "message": {
+            "type": "text",
+            "id": "546933523735642659",
+            "quoteToken": "Fk8B3hkmKZ_3_JH0q5Phod35y3Hcvj9_nC2wr6mcfADwfidkHzK3rSIhbel_PETfilkmEml34S92YHu6wokg5R965g9cpPRJy0cMT-RiHEdv_2RssAziUtU0kRUC7ljrx8LD8Rnbc8_IbynJL4M4aA",
+            "text": "今天油價多少"
+         },
+         "webhookEventId": "01JKD4MHJ0SY1DSP9W447XEFN4",
+         "deliveryContext": {
+            "isRedelivery": false
+         },
+         "timestamp": 1738829088034,
+         "source": {
+            "type": "user",
+            "userId": "U25e9025d9efa7e2b2ccdb429e0462ebd"
+         },
+         "replyToken": "cc1bc58a883a4776b19c502f7741c058",
+         "mode": "active"
+      }
+   ]
+}
+{
+   "destination": "U07ebcdc4d3f7f72fb4c968138e95bf9b",
+   "events": [
+      {
+         "type": "message",
+         "message": {
+            "type": "text",
+            "id": "546933597605724697",
+            "quoteToken": "0JOr-2K9rwPA_Z_4p8GkYPPyKLXi4rt9V0D0kZldvT___eauM8RCKNLzOax3zGTsJhcrzRcCvEpi3XjEu2yYsA3AWKLOhhMDKGVF3gY8SPOdSKOXspR4q3TuDtums-BXmqDHCW-s61q-VNU-alUNrw",
+            "text": "@新竹有什麼好玩的"
+         },
+         "webhookEventId": "01JKD4NWKERCD12V1WFACXSR3C",
+         "deliveryContext": {
+            "isRedelivery": false
+         },
+         "timestamp": 1738829132168,
+         "source": {
+            "type": "user",
+            "userId": "U25e9025d9efa7e2b2ccdb429e0462ebd"
+         },
+         "replyToken": "6f4af287100148beb8dfe9058a9ed1de",
+         "mode": "active"
+      }
+   ]
+}
+{
+   "destination": "U07ebcdc4d3f7f72fb4c968138e95bf9b",
+   "events": [
+      {
+         "type": "message",
+         "message": {
+            "type": "text",
+            "id": "546933655671931201",
+            "quoteToken": "7Jj_8bSUHIYSy7HrGxFkqgeHKILDhKmHjaBC4lzlIRtJSYBgE-32YCjFID-b17nfcbk1eIhlR72lfwAtc2OlZGrELgkK6LUCyZbK8bV7QmNzN0uIMZ6xA4xfTOXDXyHvCjdMvqJ9MJGr5YwA2Mk6Gg",
+            "text": "@新竹去哪"
+         },
+         "webhookEventId": "01JKD4PY8YEFA3NABWP4HA4C6P",
+         "deliveryContext": {
+            "isRedelivery": false
+         },
+         "timestamp": 1738829166630,
+         "source": {
+            "type": "user",
+            "userId": "U25e9025d9efa7e2b2ccdb429e0462ebd"
+         },
+         "replyToken": "b7babc323aba47798ce2616056ec8b5a",
+         "mode": "active"
+      }
+   ]
+}
+{
+   "destination": "U07ebcdc4d3f7f72fb4c968138e95bf9b",
+   "events": [
+      {
+         "type": "message",
+         "message": {
+            "type": "text",
+            "id": "546933671442251988",
+            "quoteToken": "YpKxPxL6LWTv94PPgnN03KXPXuClU8H6bxpBvXw4iD_C1lrAZRHHVkDiWaH-I_igBDfmTRD15iYDH_-95a0McJa5pljYQfRV7a-jhBJIUiECSgsQh-lli3lU4dF_iurBVxauvM1QmexJTGIUFeL_XA",
+            "text": "@台北吃啥"
+         },
+         "webhookEventId": "01JKD4Q7WMXBXRFJHGEEXCE21K",
+         "deliveryContext": {
+            "isRedelivery": false
+         },
+         "timestamp": 1738829176217,
+         "source": {
+            "type": "user",
+            "userId": "U25e9025d9efa7e2b2ccdb429e0462ebd"
+         },
+         "replyToken": "b2c47635a6614604a6e7b5bf9ef35fa8",
+         "mode": "active"
+      }
+   ]
+}
+{
+   "destination": "U07ebcdc4d3f7f72fb4c968138e95bf9b",
+   "events": [
+      {
+         "type": "message",
+         "message": {
+            "type": "text",
+            "id": "546933699460726819",
+            "quoteToken": "JEJuqO5HZMv39GT6a8VkZvzOKvpIlkyu7mSUTsywA7Ojo-NO387d3jTV3i1u5IFXXAbKk5uGabEY1u_1HBsfJi2S7oZphTux56tGv6nwueOGxwx1PnR1RtPgrdJn67e7CxawePyjjgqH2tN6AF_cdw",
+            "text": "好無聊怎麼辦"
+         },
+         "webhookEventId": "01JKD4QR4Z32EK5V9S4V3RDKEN",
+         "deliveryContext": {
+            "isRedelivery": false
+         },
+         "timestamp": 1738829192867,
+         "source": {
+            "type": "user",
+            "userId": "U25e9025d9efa7e2b2ccdb429e0462ebd"
+         },
+         "replyToken": "ee9ad37f58bc4e1e9ea7840e373112b5",
+         "mode": "active"
+      }
+   ]
+}
+{
+   "destination": "U07ebcdc4d3f7f72fb4c968138e95bf9b",
+   "events": [
+      {
+         "type": "message",
+         "message": {
+            "type": "text",
+            "id": "546934111559221425",
+            "quoteToken": "Ycfg8Gsrn4UtgrByzCmr_u4h1LMVVGhCSD24GZruUOvR0vhQSmR-dBvJ7Lds8RvgtVldOOy93QGgO0UErGqD0h9Vffo9GUin3dOe5kyDSr_UE1nnU5R2cF0_HvQvB5pS-coPoHJil-dvuG4DYz3HDA",
+            "text": "吃啥"
+         },
+         "webhookEventId": "01JKD4Z7J2SA5PHWEKNR7S19PF",
+         "deliveryContext": {
+            "isRedelivery": false
+         },
+         "timestamp": 1738829438360,
+         "source": {
+            "type": "user",
+            "userId": "U25e9025d9efa7e2b2ccdb429e0462ebd"
+         },
+         "replyToken": "02a1d57eaf9e4c2ba1ed4b50381dec15",
+         "mode": "active"
+      }
+   ]
+}
+{
+   "destination": "U07ebcdc4d3f7f72fb4c968138e95bf9b",
+   "events": [
+      {
+         "type": "message",
+         "message": {
+            "type": "text",
+            "id": "546934796338069586",
+            "quoteToken": "DQaLjmDzUj1XauT6LxGQaStnrUwjo9DKQiztIfDhY5BbNMDnvfvYZB8Oj-LZGIo65uyxVQwhALe76Vvu8QZ5okNsj1NIZl0PABY1sxyWryU3tRnxa4eBGpxfDxHvI35aCoKkdAwcHsGlVR1Ua7W1-Q",
+            "text": "訂房網站"
+         },
+         "webhookEventId": "01JKD5BPGF46JMVCE7KZXE008G",
+         "deliveryContext": {
+            "isRedelivery": false
+         },
+         "timestamp": 1738829846559,
+         "source": {
+            "type": "user",
+            "userId": "U25e9025d9efa7e2b2ccdb429e0462ebd"
+         },
+         "replyToken": "8bac01df7c5d4d6fb838e075a75db392",
+         "mode": "active"
+      }
+   ]
+}
+{
+   "destination": "U07ebcdc4d3f7f72fb4c968138e95bf9b",
+   "events": [
+      {
+         "type": "message",
+         "message": {
+            "type": "text",
+            "id": "546934848028410471",
+            "quoteToken": "awxUInorXqOnHXsuqRxoq_iMsNCc7LwCniu7CPeCPSJsNojrqFZAXIDk8bUbFXEyMnlZe8aN6yjDAyMzaO1kXZMSFkpDOqmFaF6JN0nR9iOqWyzC0cONUtFbehCx9pLJbusKyOMlwl2JDfb1jLwoTg",
+            "text": "出發吧"
+         },
+         "webhookEventId": "01JKD5CM5ZXJ9QT493N7A1XBGR",
+         "deliveryContext": {
+            "isRedelivery": false
+         },
+         "timestamp": 1738829877402,
+         "source": {
+            "type": "user",
+            "userId": "U25e9025d9efa7e2b2ccdb429e0462ebd"
+         },
+         "replyToken": "74c3272ba7e54426a5393e170bc1f955",
+         "mode": "active"
+      }
+   ]
+}
+{
+   "destination": "U07ebcdc4d3f7f72fb4c968138e95bf9b",
+   "events": [
+      {
+         "type": "message",
+         "message": {
+            "type": "text",
+            "id": "546934881884831847",
+            "quoteToken": "_E-AsobHwQmMCUtxINACr7C5S2o2tPQLH-lpl_nZuXHCOHkS1yu8Jyi3qX8i1HuwzNM5JsiOYsv3_VXrrWNeM9JES6SVwKf7uBcbAgaGTuGgNg6uK-Pm8loht0mjBoNOZZIlL7-mvdVq332PVWIhJA",
+            "text": "我覺得不行"
+         },
+         "webhookEventId": "01JKD5D81FB0V9KRB9FMBN3F15",
+         "deliveryContext": {
+            "isRedelivery": false
+         },
+         "timestamp": 1738829897540,
+         "source": {
+            "type": "user",
+            "userId": "U25e9025d9efa7e2b2ccdb429e0462ebd"
+         },
+         "replyToken": "81b2c6ec81234396a9eba2c4dada437f",
+         "mode": "active"
+      }
+   ]
+}
+{
+   "destination": "U07ebcdc4d3f7f72fb4c968138e95bf9b",
+   "events": [
+      {
+         "type": "message",
+         "message": {
+            "type": "text",
+            "id": "546935154011013829",
+            "quoteToken": "nW1JBACRLwnrf2NBkZH3WEPQoV2aFkoowGN8jDxo_KWM5aYpNDGgNXdsqEWUpuaWX0TFCgYzqrYPBzlaHDppGPc4L-zgqo8Bb1Rt8Ggg53eArkYG6jc_avKQmvkfOvLp2DgRwueCEG5go-6oDFi9Mw",
+            "text": "帶小朋友要去哪玩"
+         },
+         "webhookEventId": "01JKD5J6FRDWC681CK9E99YD5Q",
+         "deliveryContext": {
+            "isRedelivery": false
+         },
+         "timestamp": 1738830059907,
+         "source": {
+            "type": "user",
+            "userId": "U25e9025d9efa7e2b2ccdb429e0462ebd"
+         },
+         "replyToken": "b991c180d05e43b7b39ba92579681633",
+         "mode": "active"
+      }
+   ]
+}

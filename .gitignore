@@ -1,0 +1,14 @@
+# 忽略 Python 編譯檔案
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.bin
+
+#忽略.exe
+*.exe
+
+#忽略我自己的文件
+系上專題報告文件/
+
